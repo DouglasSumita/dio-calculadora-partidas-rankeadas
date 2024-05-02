@@ -18,7 +18,7 @@ depois disso retorne o resultado para uma variável, o saldo de Rankeadas deve s
 
 | Saldo | Classificação |
 |:-----:|:---------------|
-|  Até 10      |     Ferro          |
+|  Menor que 10      |     Ferro          |
 |  11 a 20 |  Bronze             |
 |  21 a 50 |   Prata            |
 |  51 a 80 |     Ouro          |
